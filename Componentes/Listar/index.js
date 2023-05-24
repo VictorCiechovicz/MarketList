@@ -100,7 +100,8 @@ export default function Listar() {
     newProdutos[index].checked = !newProdutos[index].checked
     setProdutos(newProdutos)
   }
-
+//s;lmflnvwjrn 
+  
   return (
     <View style={estilos.container}>
       <Text style={estilos.titulo}>Lista de Produtos</Text>
